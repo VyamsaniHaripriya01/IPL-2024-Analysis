@@ -48,4 +48,4 @@ The dataset `IPL_2024_Matches.csv` contains match details such as:
 
 ## 📌 Author
 Vyamsani T V A Haripriya  
-Data Analyst | Python & ML Enthusiast
+Data Analyst | Python & ML Enthusiast | Data Science Enthusiast
